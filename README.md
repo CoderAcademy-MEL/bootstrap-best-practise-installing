@@ -71,4 +71,4 @@ Also take a look at the code in `index.html.erb` if you want to see how you can 
     ```
 
 9. Try out some bootstrap like adding in a navbar, try to override it in your `main.scss` file, have fun 💅
-10. I follow the same approach as [what this guy did](https://gorails.com/episodes/how-to-use-bootstrap-with-webpack-and-rails)
+10. I followed the same approach as [what this guy did](https://gorails.com/episodes/how-to-use-bootstrap-with-webpack-and-rails)
