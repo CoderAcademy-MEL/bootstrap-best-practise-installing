@@ -4,6 +4,8 @@ If you remember from class today I had some issues with the navbar. It seems tha
 
 Here's the fix. I've also included an updated way to install Bootstrap as I think the way I showed you today isn't best practice.
 
+Also take a look at the code in `index.html.erb` if you want to see how you can you `row` and `col`.
+
 1. Create your project
 2. Run this command:
 
