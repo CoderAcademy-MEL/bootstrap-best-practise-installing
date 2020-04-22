@@ -6,13 +6,21 @@ body {
   font-family: 'Times New Roman', Times, serif;
 }
 
-a {
-  color: red;
-  text-decoration: none;
+.content {
+  background-color: tomato;
+  height: 300px;
+  width: 70%;
+  margin: 50px auto 20px auto;
 }
 
-.box {
-  background-color: tomato;
-  height: 400px;
-  margin: 10px;
+.my-container {
+  text-align: center;
+}
+
+.my-container h1 {
+  margin: 15px 0px;
+}
+
+.text {
+  font-size: 20px;
 }
